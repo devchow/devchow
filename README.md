@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer:<br>- Game Designer & Developer <br>- Mobile Apps & Web Developer <br>- Software Engineer UI/UX Designer | Graphics Designer | DJ <br>- Tech Consultant
+I'm a Full Stack Developer:<br>- Game Designer & Developer <br>- Mobile Apps & Web Developer <br>- Software Engineer UI/UX Designer <br>- Tech Consultant <br>- Graphics Designer | DJ
 
 
 ## 🌐 Socials:
