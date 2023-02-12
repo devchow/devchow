@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Game Designer & Developer | Mobile Apps & Web Designer & Developer <br>- Software Engineer UI/UX Designer | Graphics Designer | DJ
+I'm a Game Designer & Developer | Mobile Apps & Web Developer <br>- Software Engineer UI/UX Designer | Graphics Designer | DJ <br>- Tech Consultant
 
 
 ## 🌐 Socials:
