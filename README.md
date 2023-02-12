@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm a Game Developer, Full Stack Developer 👋
 
 <!--
 **devchow/devchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
